@@ -1,0 +1,6 @@
+2022/03/13-22:57:43.336 45b0 Recovering log #574
+2022/03/13-22:57:43.336 45b0 Level-0 table #576: started
+2022/03/13-22:57:43.382 45b0 Level-0 table #576: 206 bytes OK
+2022/03/13-22:57:43.467 45b0 Delete type=0 #574
+2022/03/13-22:57:43.467 45b0 Delete type=3 #573
+2022/03/13-22:57:43.500 fcc Moved #571 to level-1 203 bytes OK: files[ 3 5 0 0 0 0 0 ]
